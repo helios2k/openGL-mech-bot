@@ -10,8 +10,11 @@ I use Visual Studio 2017 and C++ environment with freeglut and glew library.
 ## Running
 Build solution and run Robot3D.cpp
 
-## Functions
-F1: Show help 
-Rotate bot: Press A to turn left, D to turn right
-Move bot: Press F to move forward, B to backward
-Rotate cannon: Arrow key up to go upward, Arrow key down to go downward
+### Function keys
+F1: Show help manual <br />
+A: Rotate left <br />
+D: Rotate right <br />
+F: Move forward <br />
+B: Move backward <br />
+Arrow key up: Raise cannons <br />
+Arrow key down: Lower cannons <br />
